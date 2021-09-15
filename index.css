@@ -18,6 +18,10 @@ body{
     display: flex;
     flex-direction: column;
 }
+h1{
+    position: absolute; 
+    left: -10000px;
+}
 .logo_container{
     margin: -3% 0 5% 0;
     padding: 0;
